@@ -9,10 +9,6 @@
 
 ###
 
-<img align="right" height="150" src="https://media.giphy.com/media/13cB7HW8ktpcyc/giphy.gif?cid=ecf05e47bgiuslzxzqj4gq9h0q8oei609ai9zligj65968g9&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
@@ -31,7 +27,19 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="30" alt="chrome logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original.svg" height="30" alt="phpstorm logo"  />
 </div>
+
+###
+
+<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2NtZWNiYmZncnNuZnhyamhyc3l2czhpd3c5b2NtbHJmaTg4NjkxayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1gLZ32bMP5pY52PBsm/giphy.gif"  />
 
 ###
 
@@ -45,6 +53,12 @@
   <a href="https://api.whatsapp.com/send?phone=77066620060" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
   </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/RealKazbek/count.svg?"  />
 </div>
 
 ###
