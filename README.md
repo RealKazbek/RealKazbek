@@ -39,7 +39,9 @@
 
 ###
 
-<img align="right" height="150" src="https://i.giphy.com/1gLZ32bMP5pY52PBsm.webp"  />
+<br clear="both">
+
+<img align="right" height="200" src="https://i.giphy.com/1gLZ32bMP5pY52PBsm.webp"  />
 
 ###
 
@@ -53,12 +55,6 @@
   <a href="https://api.whatsapp.com/send?phone=77066620060" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
   </a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/RealKazbek/count.svg?"  />
 </div>
 
 ###
