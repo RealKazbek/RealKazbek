@@ -39,7 +39,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2NtZWNiYmZncnNuZnhyamhyc3l2czhpd3c5b2NtbHJmaTg4NjkxayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1gLZ32bMP5pY52PBsm/giphy.gif"  />
+<img align="right" height="150" src="https://i.giphy.com/1gLZ32bMP5pY52PBsm.webp"  />
 
 ###
 
