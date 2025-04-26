@@ -41,7 +41,7 @@
 
 <br clear="both">
 
-<img align="right" height="200" src="https://i.giphy.com/1gLZ32bMP5pY52PBsm.webp"  />
+<img align="right" height="200" src="https://i.giphy.com/lkYTniLelesrC.webp"  />
 
 ###
 
@@ -54,6 +54,9 @@
   </a>
   <a href="https://api.whatsapp.com/send?phone=77066620060" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
+  </a>
+  <a href="https://outlook.office365.com/mail/37765@iitu.edu.kz/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
 </div>
 
