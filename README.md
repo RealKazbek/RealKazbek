@@ -1,6 +1,7 @@
 # Hi, I'm Kazbek 👋
 
 Frontend Developer from Almaty, Kazakhstan 🇰🇿
+
 Currently growing into **Go Backend Development** and building products around **AI, FinTech and automation**.
 
 ## 🚀 About Me
@@ -22,11 +23,12 @@ Currently growing into **Go Backend Development** and building products around *
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge\&logo=tailwindcss)
 
-### Backend
+### Backend & Infrastructure
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge\&logo=go\&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge\&logo=nginx\&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
 
 ## 🔥 Current Focus
@@ -37,28 +39,76 @@ REST API
 PostgreSQL
 Docker
 Algorithms
-AI integrations
+AI Integrations
 FinTech
+System Design
 ```
+
+## 🚀 What I'm Working On
+
+* Building backend services with **Go**
+* Learning REST API design and backend architecture
+* Exploring **AI integrations**
+* Building full-stack applications
+* Improving algorithms and problem-solving skills
+* Exploring FinTech products and automation
 
 ## 📌 Featured Work
 
-I'm interested in building:
+### 🌍 Full-Stack Web Platforms
 
-* AI-powered applications
-* FinTech products
-* Backend services with Go
-* Full-stack SaaS platforms
+Building production-ready web applications using:
+
+`Next.js` • `TypeScript` • `PostgreSQL` • `Docker` • `Nginx`
+
+### 🤖 AI Projects
+
+Experimenting with:
+
+* AI assistants
+* LLM integrations
 * Automation systems
+* Data-driven applications
 
-## 📊 GitHub Stats
+### ⚙️ Go Backend
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RealKazbek\&show_icons=true\&hide_border=true)
+Currently developing my backend engineering skills with:
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RealKazbek\&layout=compact\&hide_border=true)
+* Go
+* REST APIs
+* PostgreSQL
+* Docker
+* Backend architecture
+
+## 🎯 Goals
+
+```text
+Build real products
+Master Go Backend Development
+Improve algorithms
+Participate in hackathons
+Build AI-powered systems
+Work on FinTech projects
+```
+
+## 🧠 Interests
+
+`Backend Engineering`
+`Artificial Intelligence`
+`FinTech`
+`Automation`
+`System Design`
+`Algorithms`
+`Hackathons`
 
 ---
 
-### 🤝 Let's Build Something
+## 🤝 Let's Build Something
 
-Open to hackathons, collaborations and software engineering opportunities.
+Open to:
+
+* Hackathons
+* Team projects
+* Open-source contributions
+* Software engineering opportunities
+* AI & FinTech projects
