@@ -12,7 +12,7 @@
 ## 🚀 About Me
 
 * 💻 React / Next.js / TypeScript
-* ⚙️ Learning Go Backend
+* ⚙️ Learning Go / Python Backend
 * 🗄 PostgreSQL / Docker / Linux
 * 🤖 AI, FinTech & automation
 * 🧠 Algorithms & problem-solving
@@ -21,7 +21,7 @@
 ## 🛠 Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,go,postgres,docker,nginx,linux,git" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,go,python,postgres,docker,nginx,linux,git" />
 </p>
 
 ## 🔥 Current Focus
