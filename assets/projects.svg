@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" viewBox="0 0 860 185" role="img" aria-labelledby="title desc">
+<title id="title">Selected RealKazbek projects</title><desc id="desc">Pixel Lane, TerraCon, mg-market, and Kazbek Assistant rendered as terminal output.</desc>
+<style><![CDATA[text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;font-size:15px}.shell{fill:#0b0f10;stroke:#293235}.name{fill:#e8f2ec}.desc{fill:#8b9994}.row{opacity:0;animation:print .35s ease-out forwards}.r1{animation-delay:.15s}.r2{animation-delay:.3s}.r3{animation-delay:.45s}.r4{animation-delay:.6s}@keyframes print{from{opacity:0;transform:translateX(6px)}to{opacity:1;transform:none}}@media(prefers-reduced-motion:reduce){.row{animation:none;opacity:1}}]]></style>
+<rect class="shell" x=".5" y=".5" width="859" height="184" rx="10"/><text x="24" y="31" fill="#83f0b2">kazbek@github:~$ ls ~/projects</text><line x1="24" y1="43" x2="836" y2="43" stroke="#293235"/>
+<text class="name row r1" x="25" y="72">Pixel Lane</text><text class="desc row r1" x="210" y="72">adaptive traffic control · CV → ESP32 signals</text>
+<text class="name row r2" x="25" y="101">TerraCon</text><text class="desc row r2" x="210" y="101">Next.js + Django platform monorepo</text>
+<text class="name row r3" x="25" y="130">mg-market</text><text class="desc row r3" x="210" y="130">Telegram commerce · FastAPI backend</text>
+<text class="name row r4" x="25" y="159">Kazbek Assistant</text><text class="desc row r4" x="210" y="159">Telegram Business automation + SQLite memory</text>
+</svg>
